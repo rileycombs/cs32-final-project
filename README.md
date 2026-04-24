@@ -9,3 +9,6 @@ Leah and Riley intend to make a "Guess Who" came that a user can play with a com
 2. Download or clone this repository.
 3. Open a terminal and navigate to the project folder.
 4. Run the program with: python3 FPStatus.py
+5. Follow the prompts in the terminal.
+6. The program will guess your character based on your answers.
+
