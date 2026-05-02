@@ -12,3 +12,4 @@ Leah and Riley intend to make a "Guess Who" came that a user can play with a com
 5. Follow the prompts in the terminal.
 6. The program will guess your character based on your answers.
 
+## Acknowledgement
