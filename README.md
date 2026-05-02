@@ -13,4 +13,4 @@ Leah and Riley intend to make a "Guess Who" came that a user can play with a com
 6. The program will guess your character based on your answers.
 
 ## Acknowledgement
-We used AI to update our character libraries and question bank to make sense and then we went in and made the changes ourselves. 
+We used AI to update our character libraries and question bank to make sense and then we went in and made the changes ourselves. We also used it to update our best question function 
