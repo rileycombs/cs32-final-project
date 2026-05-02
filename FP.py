@@ -192,7 +192,7 @@ characters = [
         "name": "Holly Flax",
         "gender": "female",
         "hair": "blonde",
-        "glasses": True,
+        "glasses": False,
         "has_office_romance": True,
         "role": "hr",
         "department_detail": "scranton_hr",
